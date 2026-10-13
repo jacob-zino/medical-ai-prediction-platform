@@ -1,0 +1,12 @@
+fastapi==0.135.2
+uvicorn==0.42.0
+python-multipart==0.0.22
+tensorflow==2.21.0
+keras==3.13.2
+scikit-learn==1.8.0
+joblib==1.5.3
+numpy==2.4.3
+pandas==3.0.1
+pillow==12.1.1
+librosa==0.11.0
+soundfile==0.13.1

@@ -1,0 +1,5 @@
+{
+    "model": "mobilenetv2",
+    "threshold": 0.63,
+    "note": "Decision threshold selected on the validation set (best balance of pneumonia recall >= 0.95 and few false positives). Test set: accuracy 0.880, AUC 0.967, pneumonia recall 0.977."
+}
